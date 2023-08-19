@@ -24,3 +24,6 @@ To evaluate the effectiveness of your solution, you should define appropriate me
 measuring the accuracy and relevance of the rankings. You should also provide a report
 explaining your approach, describing the algorithms or techniques used, and discussing the
 strengths and limitations of your solution.
+
+### SOLUTION OF PROBLEM STATEMENT
+
