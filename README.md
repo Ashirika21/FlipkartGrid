@@ -4,9 +4,10 @@
 - Tech Bandits
 
 ## Team Members
-- @Ashirika21 - Banasthali Vidyapith (BTech Computer Science, 2021-2025)
+- Ashirika Bhardwaj - Banasthali Vidyapith (BTech Computer Science, 2021-2025)
 - Riya Agrawal - Banasthali Vidyapith (MCA, 2022-2024)
 - Khushi Kumari - Banasthali Vidyapith (MCA, 2022-2024)
+  
 ## Introduction 
  
 ### PROBLEM STATEMENT - Personalized Product Recommendations
