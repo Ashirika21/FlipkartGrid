@@ -50,5 +50,5 @@ strengths and limitations of your solution.
 - Augmented Reality Shopping: Virtual try-ons for clothing and accessories.
 - Voice-Activated Shopping: Voice commands for buying.
 - Predictive Fashion Trends: AI predicts upcoming trends.
-- Personal Shopper 2.0: AI guides for outfits and lifestyle choices.
+- Personal Shopper: AI guides for outfits and lifestyle choices.
 - Continuous Learning: Adapting and improving from user interactions.
