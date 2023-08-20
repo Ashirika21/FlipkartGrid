@@ -28,7 +28,7 @@ strengths and limitations of your solution.
 ### SOLUTION OF PROBLEM STATEMENT
 "Revolutionize Shopping with AI: Introducing Personalized Product Rcommendations! Our cutting-edge solution marries your unique taste with advanced algorithms. 🚀 By analyzing your past choices, we handpick products that resonate with your preferences. Our hybrid model fuses collaboration and content, connecting you with like-minded users and aligning with trending items. Stay ahead of the curve with dynamic updates that adapt to your evolving interests. Elevate your shopping journey – where every click leads to a perfect fit!". It knows your desires, predicts your wants, and curates a selection that's tailor-made for YOU! 
 
-#### Unveiling Our Top Features 
+### Unveiling Our Top Features 
 - Your Style, Perfected: Curated rankings tuned to your preferences
 - Trends & Tribes United: Merging like-minded tastes with hot products
 - Always in Sync: Real-time updates for ever-improving precision
