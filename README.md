@@ -26,7 +26,7 @@ explaining your approach, describing the algorithms or techniques used, and disc
 strengths and limitations of your solution.
 
 ### SOLUTION OF PROBLEM STATEMENT
-"Revolutionize Shopping with AI: Introducing Personalized Product Rcommendations! Our cutting-edge solution marries your unique taste with advanced algorithms. 🚀 By analyzing your past choices, we handpick products that resonate with your preferences. Our hybrid model fuses collaboration and content, connecting you with like-minded users and aligning with trending items. Stay ahead of the curve with dynamic updates that adapt to your evolving interests. Elevate your shopping journey – where every click leads to a perfect fit!". It knows your desires, predicts your wants, and curates a selection that's tailor-made for YOU! 
+"Revolutionize Shopping with AI: Introducing Personalized Product Rcommendations! Our cutting-edge solution marries your unique taste with advanced algorithms. By analyzing your past choices, we handpick products that resonate with your preferences. Our hybrid model fuses collaboration and content, connecting you with like-minded users and aligning with trending items. Stay ahead of the curve with dynamic updates that adapt to your evolving interests. Elevate your shopping journey – where every click leads to a perfect fit!". It knows your desires, predicts your wants, and curates a selection that's tailor-made for YOU! 
 
 ### Unveiling Our Top Features 
 - Your Style, Perfected: Curated rankings tuned to your preferences
@@ -45,3 +45,10 @@ strengths and limitations of your solution.
 - GitHub: FlipkartGrid (https://github.com/Ashirika21/FlipkartGrid)
 - Drive (Demo video + PDF of ppt): FlipkartGrid (https://drive.google.com/drive/folders/1EdtaDHj89hJU-br111corKsYuakTjcmX?usp=sharing)
 - Website link: 
+
+## Future Scope
+- Augmented Reality Shopping: Virtual try-ons for clothing and accessories.
+- Voice-Activated Shopping: Voice commands for buying.
+- Predictive Fashion Trends: AI predicts upcoming trends.
+- Personal Shopper 2.0: AI guides for outfits and lifestyle choices.
+- Continuous Learning: Adapting and improving from user interactions.
