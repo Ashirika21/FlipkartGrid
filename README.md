@@ -55,7 +55,7 @@ This solution presents a comprehensive approach to building a personalized produ
 ## Deliverables
 - GitHub: FlipkartGrid (https://github.com/Ashirika21/FlipkartGrid)
 - Drive (Demo video + PDF of ppt): FlipkartGrid (https://drive.google.com/drive/folders/1EdtaDHj89hJU-br111corKsYuakTjcmX?usp=sharing)
-- Website link: 
+- Website link: https://suggestifyy.netlify.app/
 
 ## Contact Us
 - Ashirika Bhardwaj: ashirikabhardwaj@gmail.com
