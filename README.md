@@ -35,6 +35,13 @@ strengths and limitations of your solution.
 - Personalized Perfection: Tailoring rankings to your unique taste
 - Shape your recommendations: Shaping your recommendations through ratings and reviews
 - Your Circle, Your Finds: Embrace the power of shared taste
+  
+## Future Scope
+- Augmented Reality Shopping: Virtual try-ons for clothing and accessories.
+- Voice-Activated Shopping: Voice commands for buying.
+- Predictive Fashion Trends: AI predicts upcoming trends.
+- Personal Shopper: AI guides for outfits and lifestyle choices.
+- Continuous Learning: Adapting and improving from user interactions.
 
 ## Tech Stack
 - Frontend: HTML, CSS
@@ -48,13 +55,6 @@ strengths and limitations of your solution.
 - GitHub: FlipkartGrid (https://github.com/Ashirika21/FlipkartGrid)
 - Drive (Demo video + PDF of ppt): FlipkartGrid (https://drive.google.com/drive/folders/1EdtaDHj89hJU-br111corKsYuakTjcmX?usp=sharing)
 - Website link: 
-
-## Future Scope
-- Augmented Reality Shopping: Virtual try-ons for clothing and accessories.
-- Voice-Activated Shopping: Voice commands for buying.
-- Predictive Fashion Trends: AI predicts upcoming trends.
-- Personal Shopper: AI guides for outfits and lifestyle choices.
-- Continuous Learning: Adapting and improving from user interactions.
 
 ## Contact Us
 - Ashirika Bhardwaj: ashirikabhardwaj@gmail.com
