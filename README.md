@@ -35,3 +35,13 @@ strengths and limitations of your solution.
 - Personalized Perfection: Tailoring rankings to your unique taste
 - Shape your recommendations: Shaping your recommendations through ratings and reviews
 - Your Circle, Your Finds: Embrace the power of shared taste
+
+## Tech Stack
+- Frontend: HTML, CSS
+- Backend: Artificial Intelligence/Machine Learning (AI/ML)
+
+
+## Deliverables
+- GitHub: FlipkartGrid (https://github.com/Ashirika21/FlipkartGrid)
+- Drive (Demo video + PDF of ppt): FlipkartGrid (https://drive.google.com/drive/folders/1EdtaDHj89hJU-br111corKsYuakTjcmX?usp=sharing)
+- Website link: 
