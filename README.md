@@ -38,9 +38,12 @@ strengths and limitations of your solution.
 
 ## Tech Stack
 - Frontend: HTML, CSS
-- Backend: Artificial Intelligence/Machine Learning (AI/ML)
+- Backend: Python
+- Interface: Jupyter Notebook, PyCharm
 
-
+## Datasets
+- Dataset link (from DataWorld): (https://drive.google.com/drive/folders/1EdtaDHj89hJU-br111corKsYuakTjcmX?usp=drive_link)
+  
 ## Deliverables
 - GitHub: FlipkartGrid (https://github.com/Ashirika21/FlipkartGrid)
 - Drive (Demo video + PDF of ppt): FlipkartGrid (https://drive.google.com/drive/folders/1EdtaDHj89hJU-br111corKsYuakTjcmX?usp=sharing)
@@ -52,3 +55,8 @@ strengths and limitations of your solution.
 - Predictive Fashion Trends: AI predicts upcoming trends.
 - Personal Shopper: AI guides for outfits and lifestyle choices.
 - Continuous Learning: Adapting and improving from user interactions.
+
+## Contact Us
+- Ashirika Bhardwaj: ashirikabhardwaj@gmail.com
+- Riya Agrawal: 2riyaagrawal@gmail.com
+- Khushi Kumari: kkumari4142@gmail.com
